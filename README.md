@@ -62,5 +62,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Chart.js](https://www.chartjs.org/) for the data visualization library.
 
 ## Contact
-For any questions or feedback, please contact [your-email@example.com](mailto:dariust.sc1@gmail.com).
+For any questions or feedback, please contact [dariust.sc1@gmail.com](mailto:dariust.sc1@gmail.com).
 
